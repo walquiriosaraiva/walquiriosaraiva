@@ -24,6 +24,7 @@ Com anos de experiência em desenvolvimento fullstack, tenho me dedicado a const
 ## Projetos
 
 Veja nos meus repositórios alguns projetos que eu desenvolvi:
+- **Repositories**: [Repositories](https://github.com/walquiriosaraiva?tab=repositories)
 
 ## Contato
 
