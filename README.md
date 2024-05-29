@@ -1,6 +1,6 @@
-## Walquirio Saraiva Rocha 👋
+## 💬 Olá! Sou Walquirio Saraiva Rocha 
 
-Olá! Sou Walquirio Saraiva Rocha, um desenvolvedor fullstack apaixonado por criar soluções inovadoras e eficientes. Com experiência em diversas tecnologias, meu objetivo é desenvolver aplicativos escaláveis e de alta performance.
+Um desenvolvedor fullstack apaixonado por criar soluções inovadoras e eficientes. Com experiência em diversas tecnologias, meu objetivo é desenvolver aplicativos escaláveis e de alta performance.
 
 ## Tecnologias e Ferramentas
 
